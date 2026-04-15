@@ -100,9 +100,6 @@ clawhub install pm-interview-coach --dir ~/.openclaw/skills
 ### v1.4.3
 - 移除：群面相关内容，Skill仅支持单面
 
-### v1.4.3
-- 移除：群面相关内容，Skill仅支持单面
-
 ### v1.4.2
 - 修复：出题节奏中"跳过自我介绍"与结构表不一致
 - 修复：行为面从1道改为2道
